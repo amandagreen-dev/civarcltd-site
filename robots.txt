@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://civarcltd.com/sitemap.xml
